@@ -1,0 +1,21 @@
+# Local .terraform directories
+**/.terraform/*
+.terraform.lock.hcl
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+terraform.tfstate
+terraform.tfstate.*
+
+# Crash log files
+crash.log
+
+# Backup files
+*.backup
+*.bak
+*.log
+
+# Ignore IDE settings
+.vscode/
+.idea/
